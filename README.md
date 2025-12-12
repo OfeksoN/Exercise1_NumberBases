@@ -20,7 +20,7 @@ All functions include examples and tests.
 
 ## ✨ Features
 
-- Supports bases **2 to 36** (digits `0-9` and letters `A-Z`/`a-z`).  
+- Supports bases **2 to 16** (digits `0-9` and letters `A-F`/`a-F`).  
 - Raises clear errors on invalid digits/base mismatches.  
 - Handles **signed** decimal inputs when converting to/from bases.  
 - Provides two’s complement negation with fixed bit width.
